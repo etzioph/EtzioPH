@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Etzio</h1>
 <h3 align="center">A Green hat hacker who want to learn a lot!</h3>
-<img align="right" alt="code" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
+<img align="right" alt="code" width="500" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 
 
 - 🌱 I’m currently learning **Web Hacking**
